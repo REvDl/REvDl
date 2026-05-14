@@ -1,1 +1,1 @@
-![My Stats](https://github-readme-stats.shion.dev/api?username=REvDl&show_icons=true&theme=holi&rank_icon=github)
+![My Stats](https://github-readme-stats.shion.dev/api?username=REvDl&show_icons=true&theme=holi&rank_icon=github) [![GitHub Streak](https://streak-stats.demolab.com?user=REvDl&theme=dark&dates=ADD8E6&stroke=3F6AC6&excludeDaysLabel=336AA2&background=040415&border=ACC1DB&ring=3768B2&fire=50A7FF&currStreakNum=DBEEFF&sideNums=DBEEFF&currStreakLabel=3F89D2&sideLabels=DBEEFF&font_family=Segoe+UI&font_weight=bold)](https://git.io/streak-stats)
