@@ -12,8 +12,7 @@
   </tr>
   <tr>
     <td colspan="3" style="padding-top: 10px;">
-      <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-Framework-009688?style=flat-square&logo=fastapi&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=flat-square&logo=redis&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F26?style=flat-square&logo=sqlalchemy&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-Framework-009688?style=flat-square&logo=fastapi&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=flat-square&logo=redis&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F26?style=flat-square&logo=sqlalchemy&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Resend-Email-000000?style=flat-square&logo=resend&logoColor=white" />
     </td>
   </tr>
 </table>
-
