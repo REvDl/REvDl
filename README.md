@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td colspan="3" style="padding-top: 10px;">
-      <img src="https://github-readme-activity-graph-henna.vercel.app/graph?username=REvDl&theme=react-dark&hide_border=true&bg_color=040415&color=DBEEFF&line=3768B2&point=50A7FF" alt="Activity graph" />
+      <img src="https://github-readme-activity-graph-sigma-beryl.vercel.app/graph?username=REvDl&theme=react-dark&hide_border=true&bg_color=040415&color=DBEEFF&line=3768B2&point=50A7FF" alt="Activity graph" />
     </td>
   </tr>
   <tr>
